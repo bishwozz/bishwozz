@@ -1,4 +1,4 @@
-# ![Developer Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg) [Your Name] - Software Developer
+# ![Developer Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg) [Bishwo Nath Sapkota] - Software Developer
 
 ## About Me
 I am a passionate and experienced software developer with a focus on Laravel framework. With a strong background in web development, I thrive on building robust and scalable applications that meet client needs effectively. I am adept at collaborating with cross-functional teams to deliver high-quality solutions.
