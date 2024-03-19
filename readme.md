@@ -12,7 +12,7 @@ I am a passionate and experienced software developer with a focus on Laravel fra
 - 🌐 **Other:** RESTful APIs, MVC Architecture, Test-Driven Development (TDD)
 
 ## Contact Me
-- 💼  [**LinkedIn**](www.linkedin.com/in/bishwo-sapkota-86898a199)
-- 🐙  [**GitHub**](www.github.com/bishwozz)
-- 📧 **Email:** [bishwo123sapkota@gmail.com]
+- 💼  [**LinkedIn**](https://www.linkedin.com/in/bishwo-sapkota-86898a199)
+- 🐙  [**GitHub**](https://www.github.com/bishwozz)
+- 📧 **Email:** [bishwo123sapkota@gmail.com](mailto:bishwo123sapkota@gmail.com)
 - 🔗 **Portfolio:** [N/A]
