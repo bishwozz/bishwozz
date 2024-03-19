@@ -16,3 +16,4 @@ I am a passionate and experienced software developer with a focus on Laravel fra
 - 🐙  [**GitHub**](https://www.github.com/bishwozz)
 - 📧 **Email:** [bishwo123sapkota@gmail.com](mailto:bishwo123sapkota@gmail.com)
 - 🔗 **Portfolio:** [N/A]
+- <a href="https://www.linkedin.com/in/bishwo-sapkota-86898a199" target="_blank"><b>LinkedIn</b></a>
