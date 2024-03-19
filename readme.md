@@ -13,7 +13,7 @@ I am a passionate and experienced software developer with a focus on Laravel fra
 
 ## Contact Me
 - 💼 **LinkedIn:** [Your LinkedIn Profile URL]
-- 🐙 **GitHub:** [Your GitHub Profile URL]
+- 🐙 **GitHub:** [https://github.com/bishwozz]
 - 📧 **Email:** [Your Email Address]
 - 🔗 **Portfolio:** [Your Portfolio Website URL]
 
