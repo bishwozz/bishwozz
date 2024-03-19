@@ -12,8 +12,8 @@ I am a passionate and experienced software developer with a focus on Laravel fra
 - 🌐 **Other:** RESTful APIs, MVC Architecture, Test-Driven Development (TDD)
 
 ## Contact Me
-- 💼 **LinkedIn:** [Your LinkedIn Profile URL]
-- 🐙 **GitHub:** [https://github.com/bishwozz]
+- 💼  [<**LinkedIn:**>](<Your LinkedIn Profile URL>)
+- 🐙  [<**GitHub:**>](<https://github.com/bishwozzL>)
 - 📧 **Email:** [Your Email Address]
 - 🔗 **Portfolio:** [Your Portfolio Website URL]
 
