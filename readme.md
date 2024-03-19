@@ -1,4 +1,4 @@
-# 👨‍💻 [Bishwo Nath Sapkota] - Software Developer ![Laravel Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg)
+# 👨‍💻 [Bishwo Nath Sapkota] - Software Developer
 
 
 ## About Me
