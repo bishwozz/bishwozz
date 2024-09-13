@@ -15,6 +15,3 @@ I am a passionate and experienced software developer with a focus on Laravel fra
 - 📧 **Email:** [bishwo123sapkota@gmail.com](mailto:bishwo123sapkota@gmail.com)
 - 🔗 **Portfolio:** [N/A]
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/bishwozz/bishwozz/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
