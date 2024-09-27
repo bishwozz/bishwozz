@@ -30,3 +30,5 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-bishwosapkota-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bishwo-sapkota-86898a199/)](https://www.linkedin.com/in/bishwo-sapkota-86898a199)
+
+<a href="https://app.daily.dev/bishwosapkota"><img src="https://api.daily.dev/devcards/v2/4MJ1pd3pIpZFq3aMRQL5E.png?r=bdk&type=default" width="356" alt="bishwo sapkota's Dev Card"/></a>
